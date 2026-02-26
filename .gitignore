@@ -19,6 +19,7 @@ wheels/
 
 # Environment variables
 .env
+.streamlit/secrets.toml
 
 # IDE settings
 .vscode/
